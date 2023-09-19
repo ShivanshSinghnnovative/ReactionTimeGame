@@ -15,13 +15,19 @@ export default {
 }
 </script>
 <style scoped>
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
 .resultDiv {
-    padding: 2rem 7rem;
-    width: fit-content;
+    padding: 2rem 0 2rem 2rem;
+    width: 35rem;
     background-color: white;
     margin-top: 3rem;
     font-size: 20px;
-    margin-left: 30%;
+    margin-left: 32%;
     border-radius: 1rem;
+  
 }
 </style>
